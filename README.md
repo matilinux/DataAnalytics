@@ -6,3 +6,6 @@
 * Rakenna webscraper millä saa tenniksen rankkingista statistiikkaa
   * Nyt on pelaajien nimet ja niiden rankking saatu JSON objektiksi, seuraavaksi vielä muita tietoja pelaajista
     * Vanhojen ja uusien tennis rankkinkien vertailu, interaktiivinen 
+* mikä olisi ollut tulos ostomyynti signaalien kanssa. Olisiko jäänyt pakkaselle
+  * Rinnakkain plotteja, korrelaatioita
+  * nasdaqin sivuilta saa csv filejä.
