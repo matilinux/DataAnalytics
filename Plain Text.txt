@@ -2,3 +2,8 @@ Sources:
 https://thispointer.com/python-pandas-how-to-convert-lists-to-a-dataframe/
 https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#timeseries-offset-aliases
 https://github.com/taanila/kurssi/blob/master/aikasarjat.ipynb
+
+
+
+
+https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3
