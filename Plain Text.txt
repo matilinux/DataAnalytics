@@ -7,3 +7,10 @@ https://github.com/taanila/kurssi/blob/master/aikasarjat.ipynb
 
 
 https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3
+https://stackoverflow.com/questions/41535322/setting-freq-of-pandas-datetimeindex-after-dataframe-creation
+https://github.com/taanila/kurssi
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html
+https://stackoverflow.com/questions/20602947/append-column-to-pandas-dataframe
+https://stackoverflow.com/questions/26163702/how-to-change-figuresize-using-seaborn-factorplot
+
+Luokittelumallit seuraavaksi.
